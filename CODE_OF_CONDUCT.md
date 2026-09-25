@@ -2,7 +2,7 @@
 
 riff is built around the idea that music communities and artists should be
 treated fairly. We expect the same in every riff space: GitHub repositories,
-issues, pull requests, discussions and official social channels.
+issues, discussions and official social channels.
 
 ## Expected behavior
 

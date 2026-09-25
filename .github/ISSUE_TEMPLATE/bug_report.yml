@@ -1,0 +1,48 @@
+name: Bug report
+description: Something is broken or behaves unexpectedly.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a problem. **Security issues should not be filed here.**
+        Please follow the [security policy](https://github.com/use-riff/.github/blob/main/SECURITY.md) instead.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: A clear description of the problem.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Go to …
+        2. Click …
+        3. See …
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect to happen?
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Where did it happen?
+      description: A URL, page, component or network (e.g. devnet/testnet), where relevant.
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      description: Browser, OS, device, and wallet if relevant.
+      placeholder: e.g. Firefox 131, macOS 15, Phantom
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshots or extra context
+      description: Anything else that helps. Never paste private keys or seed phrases.

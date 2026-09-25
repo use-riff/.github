@@ -16,12 +16,11 @@ GitHub treats this repository specially:
 | file | purpose |
 | --- | --- |
 | [`profile/README.md`](profile/README.md) | The public org profile: what riff is, how it works and the roadmap. |
-| [`CONTRIBUTING.md`](CONTRIBUTING.md) | How to report issues, suggest ideas and open pull requests. |
+| [`CONTRIBUTING.md`](CONTRIBUTING.md) | How to report bugs, suggest ideas and report security issues. riff is not open source. |
 | [`SECURITY.md`](SECURITY.md) | How to report a vulnerability privately. |
 | [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) | Expected behavior in riff spaces. |
 | [`SUPPORT.md`](SUPPORT.md) | Where to ask questions and find project updates. |
 | [`.github/ISSUE_TEMPLATE/`](.github/ISSUE_TEMPLATE) | Default bug report and feature request forms. |
-| [`.github/pull_request_template.md`](.github/pull_request_template.md) | Default pull request checklist. |
 
 ## Overriding the defaults
 

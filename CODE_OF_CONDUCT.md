@@ -2,7 +2,7 @@
 
 riff is built around the idea that music communities and artists should be
 treated fairly. We expect the same in every riff space: GitHub repositories,
-issues, pull requests, discussions and official social channels.
+issues, discussions and official social channels.
 
 ## Expected behavior
 
@@ -21,16 +21,6 @@ issues, pull requests, discussions and official social channels.
   addresses or links.
 - Shilling, price speculation or pressure to buy any token in project spaces.
 - Spam, or repeatedly derailing a discussion.
-
-## Enforcement
-
-Maintainers may remove, edit or reject comments, commits, issues and other
-contributions that break this code. They may also temporarily or permanently
-ban anyone whose behavior is harmful.
-
-To report a problem, contact the maintainers privately. Send a direct
-message to [@useRiffPad](https://x.com/useRiffPad) on X. Reports are
-handled as confidentially as possible.
 
 ## Attribution
 

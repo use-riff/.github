@@ -63,7 +63,7 @@ remove market risk, coordinated selling or loss of value.
 | repo | what's in it |
 | --- | --- |
 | [`use-riff.github.io`](https://github.com/use-riff/use-riff.github.io) | The public roadmap site. Plain HTML, CSS and JS, served by GitHub Pages. |
-| [`.github`](https://github.com/use-riff/.github) | This org profile, plus the default community files (contributing guide, security policy, issue and PR templates). |
+| [`.github`](https://github.com/use-riff/.github) | This org profile, plus the default community files (contributing guide, security policy and issue forms). |
 
 ---
 

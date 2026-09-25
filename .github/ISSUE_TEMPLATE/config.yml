@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security vulnerability
+    url: https://github.com/use-riff/.github/blob/main/SECURITY.md
+    about: Please report security issues privately. Don't open a public issue.
+  - name: Roadmap and project overview
+    url: https://use-riff.github.io/
+    about: Read what riff is and where it's heading.
+  - name: Updates and questions
+    url: https://x.com/useRiffPad
+    about: Follow development and ask general questions on X.

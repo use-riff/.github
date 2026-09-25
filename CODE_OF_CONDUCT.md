@@ -22,16 +22,6 @@ issues, pull requests, discussions and official social channels.
 - Shilling, price speculation or pressure to buy any token in project spaces.
 - Spam, or repeatedly derailing a discussion.
 
-## Enforcement
-
-Maintainers may remove, edit or reject comments, commits, issues and other
-contributions that break this code. They may also temporarily or permanently
-ban anyone whose behavior is harmful.
-
-To report a problem, contact the maintainers privately. Send a direct
-message to [@useRiffPad](https://x.com/useRiffPad) on X. Reports are
-handled as confidentially as possible.
-
 ## Attribution
 
 This code of conduct is inspired by the
